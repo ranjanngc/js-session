@@ -28,3 +28,17 @@
 
 // Q13: Write a vue js component, that do a rest call on page load and renders the content on that page. Hit this API `https://api.restful-api.dev/objects` and render it in individual div in flow layout.
 // On click of individual div, it should call `https://api.restful-api.dev/objects?id=<<id returned as response>>` and display the data in new page.
+
+// Q: What is SPA
+
+// Q: What is components? How can we create a component?
+
+// Q: What is mixin? Explain with example. 
+
+// Q: What is Virtual DOM
+
+// Q: What is Data binding 
+
+// Q: How do you pass data between components
+
+// Q: 
