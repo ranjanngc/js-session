@@ -72,4 +72,24 @@ let a = [{name: 'xyz', age: 13}, {name: 'abc', age: 16}, {name: 'def', age: 18}]
 // Q25: What is different HTTP verbs and how they are different from each other.
 
 
+// Q26: Explain hoisting with example
 
+// Q27: Explain implicit type coercion
+
+// Q28: What is NaN
+
+// Q29: Expalin passed by value and passed by reference. With example
+
+// Q30: Write and immediately invoked function example:
+
+// Q31: What is strict mode in JS
+
+// Q32: Explain Higher order function
+
+
+// Q33: Expalin "this" keyword
+
+
+// Q34: Explain "call()", "apply()" and "bind()" 
+
+// Q35: 
